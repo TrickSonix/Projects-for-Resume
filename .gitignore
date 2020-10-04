@@ -1,1 +1,9 @@
 .ipynb_checkpoints
+*.png
+*.jpg
+retail_train.csv
+.vscode
+__pycache__
+*.docx
+settings.py
+*.pickle
